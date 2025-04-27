@@ -29,8 +29,8 @@ If you find this repository useful, then consider to leave a ⭐.
 
 Connect with me
 
-👉 LinkedIn: https://www.linkedin.com/in/manish-jujum-706190191
+👉 LinkedIn: 
 
-📧 Email: mjujum2@gmail.com
+📧 Email: 
 
 Thanks a lot 🙂🙂
