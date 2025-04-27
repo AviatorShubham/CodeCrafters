@@ -1,8 +1,6 @@
 💻 CodeCrafter – Personal Website & Portfolio
 CodeCrafter is a personal website application where visitors can explore my work, learn about my services, and reach out to me for building their own websites or applications. It serves as a portfolio and a client engagement platform.
 
-Please Access CodeCrafters : https://manishjujum.github.io/CodeCrafters/
-
 🔹 Features:
 Clean, modern, and responsive UI
 
